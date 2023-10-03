@@ -24,7 +24,7 @@ Apakah ada pola musiman atau tren jangka panjang dalam kualitas udara (SO2, NO2,
 ## Menyaipkan semua library yang dibutuhkan
 """
 
-!pip install geopandas
+
 
 import pandas as pd
 import numpy as np
